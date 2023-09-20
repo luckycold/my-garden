@@ -22,7 +22,7 @@ I would argue, it's the paddle bouncing the ball back and forth and being reset 
 	- [ ] Menu Elements
 - [ ] Menus
 
-This video was helpful for reference, I just pulled bits and pieces from it to better understand what I have here
+This video was helpful for reference, I just pulled bits and pieces from it to better understand what I have here:
 <iframe title="Make Your First 2D Game with Godot: Player and Enemy (beginner tutorial part 1)" src="https://www.youtube.com/embed/Mc13Z2gboEk?feature=oembed" height="113" width="400" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 16 / 9; width: 100%; height: 100%;"></iframe>
 
 # Information
