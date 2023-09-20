@@ -17,5 +17,14 @@ const config = {
       name: "YouTube",
     },
   ],
+  comments: {
+    provider: "giscus",
+    config: {
+      repo: process.env.NEXT_PUBLIC_GISCUS_REPO,
+      repositoryId: process.env.NEXT_PUBLIC_GISCUS_REPOSITORY_ID,
+      category: process.env.NEXT_PUBLIC_GISCUS_CATEGORY,
+      categoryId: process.env.NEXT_PUBLIC_GISCUS_CATEGORY_ID,
+    },
+  },
 }
 export default config;
