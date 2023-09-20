@@ -1,7 +1,9 @@
-export default {};
-defaultAuthor: "luke-williams"
-const config = {
-  search: {
-    provider: "kbar",
+export default {
+  const config = {
+    defaultAuthor: "luke-williams",
+    search: {
+      provider: "kbar"
+    }
   }
-}
+};
+
