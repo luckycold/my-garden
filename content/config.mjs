@@ -1,4 +1,4 @@
-export default {};
+export default config;
 const config = {
   defaultAuthor: "luke-williams",
   search: {
