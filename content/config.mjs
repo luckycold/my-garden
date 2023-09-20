@@ -6,7 +6,7 @@ const config = {
   showEditLink: true,
   editLinkRoot: "https://github.com/luckycold/my-blog/edit/main",
   navbarTitle: {
-    logo: "/images/logo.svg",
+    logo: "https://filedn.com/li6XWfINaLQXBMsntum3ppB/Public%20Images/profile.png",
     text: "Luke's Mind Garden",
     version: "Alpha",
   },
