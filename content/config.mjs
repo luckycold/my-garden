@@ -1,5 +1,5 @@
 const config = {
-  defaultAuthor: "luke-williams",
+  defaultAuthor: "Luke Williams",
   search: {
     provider: "kbar"
   }
