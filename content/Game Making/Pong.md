@@ -23,8 +23,8 @@ I would argue, it's the paddle bouncing the ball back and forth and being reset 
 - [ ] Menus
 
 This video was helpful for reference, I just pulled bits and pieces from it to better understand what I have here:
-<iframe title="Make Your First 2D Game with Godot: Player and Enemy (beginner tutorial part 1)" src="https://www.youtube.com/embed/Mc13Z2gboEk?feature=oembed" height="113" width="400" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 16 / 9; width: 100%; height: 100%;"></iframe>
-
+![](https://www.youtube.com/Mc13Z2gboEk)
+ 
 # Information
 ## Godot Nodes
 As it turns out Godot has the entire functionality of its engine working inside of a series of nodes working all the way to a god node. Then I make scripts within it that can be controlled.
