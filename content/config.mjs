@@ -10,5 +10,12 @@ const config = {
     text: "Luke's Mind Garden",
     version: "Alpha",
   },
+  navLinks: [
+    { href: "/blog", name: "Blog" },
+    {
+      href: "https://wahwuh.com",
+      name: "YouTube",
+    },
+  ],
 }
 export default config;
