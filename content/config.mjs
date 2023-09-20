@@ -4,6 +4,6 @@ const config = {
     provider: "kbar"
   },
   showEditLink: true,
-  editLinkRoot: "https://github.com/luckycold/my-blog/edit/main/site",
+  editLinkRoot: "https://github.com/luckycold/my-blog/edit/main",
 }
 export default config;
