@@ -3,7 +3,7 @@ const config = {
   description: "Luke's Mind",
   author: "Luke Williams",
   defaultAuthor: "Luke Williams",
-  domain: "https://docs.1al.cc",
+  domain: "https://doc.1al.cc",
   logo: "/images/logo.svg",
   search: {
     provider: "kbar"
