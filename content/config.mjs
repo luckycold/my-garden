@@ -35,10 +35,5 @@ const config = {
     { label: "youtube", href: "https://wahwuh.com" },
     { label: "twitter", href: "https://twitter.com/wahwuhRAW" },
   ],
-  twitter: {
-      handle: "@wahwuhRAW",
-      site: "https://doc.1al.cc",
-      cardType: "summary_large_image",
-    },
 }
 export default config;
