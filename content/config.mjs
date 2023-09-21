@@ -1,9 +1,15 @@
 const config = {
+  title: "Lucky!",
+  description: "Luke's Mind",
+  author: "Luke Williams",
   defaultAuthor: "Luke Williams",
+  domain: "https://docs.1al.cc",
+  logo: "/images/logo.svg",
   search: {
     provider: "kbar"
   },
   showEditLink: true,
+  showComments: true,
   editLinkRoot: "https://github.com/luckycold/my-blog/edit/main",
   navbarTitle: {
     text: "Luke's Digital Garden",
@@ -11,10 +17,7 @@ const config = {
   },
   navLinks: [
     { href: "/blog", name: "Blog" },
-    {
-      href: "https://wahwuh.com",
-      name: "YouTube",
-    },
+    { href: "/_all", name: "All" },
   ],
   comments: {
     provider: "giscus",
@@ -26,6 +29,16 @@ const config = {
     },
     pages: ["blog"],
   },
-  showComments: true,
+  social: [
+    { label: "github", href: "https://github.com/luckycold/my-garden" },
+    { label: "discord", href: "https://discord.gg/7UGcvKzBeP" },
+    { label: "youtube", href: "https://wahwuh.com" },
+    { label: "twitter", href: "https://twitter.com/wahwuhRAW" },
+  ],
+  twitter: {
+      handle: "@wahwuhRAW",
+      site: "https://doc.1al.cc",
+      cardType: "summary_large_image",
+    },
 }
 export default config;
