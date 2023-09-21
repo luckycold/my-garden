@@ -1,8 +1,6 @@
 ---
-showSidebar:
+showSidebar: "true"
 ---
-
-
 # Hey! Welcome to my Blog!
 
 > [!WARNING] 
