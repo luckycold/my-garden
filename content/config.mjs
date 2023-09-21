@@ -17,7 +17,6 @@ const config = {
   },
   navLinks: [
     { href: "/blog", name: "Blog" },
-    { href: "/_all", name: "All" },
   ],
   comments: {
     provider: "giscus",
