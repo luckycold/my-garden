@@ -1,3 +1,8 @@
+---
+showSidebar:
+---
+
+
 # Hey! Welcome to my Blog!
 
 > [!WARNING] 
