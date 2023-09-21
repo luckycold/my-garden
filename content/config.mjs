@@ -24,7 +24,7 @@ const config = {
       category: process.env.NEXT_PUBLIC_GISCUS_CATEGORY,
       categoryId: process.env.NEXT_PUBLIC_GISCUS_CATEGORY_ID,
     },
-    pages: ["/blog"],
+    pages: ["blog"],
   },
   showComments: true,
 }
