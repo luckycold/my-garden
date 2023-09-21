@@ -1,10 +1,10 @@
 const config = {
   title: "Lucky!",
   description: "Luke's Mind",
-  author: " Luke Williams",
+  author: "Luke Williams",
   defaultAuthor: "Luke Williams",
   domain: "https://1al.cc",
-  logo: "",
+  //logo: "",
   search: {
     provider: "kbar"
   },
