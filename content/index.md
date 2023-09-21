@@ -1,7 +1,7 @@
 ---
 showSidebar: "true"
 ---
-# Hey! Welcome to my Blog!
+# Hey! Welcome to my Mind!
 
 > [!WARNING] 
 > This is running on [Flowershow](https://flowershow.app/) and it's in active development apparently. So mind the bugs if you see any.
