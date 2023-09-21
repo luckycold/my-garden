@@ -1,4 +1,4 @@
-const config : {
+const config = {
   defaultAuthor: "Luke Williams",
   search: {
     provider: "kbar"
