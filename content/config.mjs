@@ -1,4 +1,4 @@
-const config = {
+const config : {
   defaultAuthor: "Luke Williams",
   search: {
     provider: "kbar"
@@ -20,10 +20,18 @@ const config = {
   comments: {
     provider: "giscus",
     config: {
-      repo: "luckycold/my-blog",
-      repositoryId: "R_kgDOKWJZ6Q",
-      category: "General",
-      categoryId: "DIC_kwDOKWJZ6c4CZf-e",
+      repo:"luckycold/my-blog",
+      repo-id:"R_kgDOKWJZ6Q",
+      category:"General",
+      category-id:"DIC_kwDOKWJZ6c4CZf-e",
+      mapping:"pathname",
+      strict:"0",
+      reactions-enabled:"1",
+      emit-metadata:"0",
+      input-position:"bottom",
+      theme:"preferred_color_scheme",
+      lang:"en",
+      crossorigin:"anonymous",
     },
     pages: ["blog"],
   },
