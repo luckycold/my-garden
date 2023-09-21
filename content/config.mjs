@@ -1,7 +1,7 @@
 const config = {
   title: "Lucky!",
   description: "Luke's Mind",
-  author: "Luke Williams",
+  author: " Luke Williams",
   defaultAuthor: "Luke Williams",
   domain: "https://1al.cc",
   logo: "",
@@ -36,7 +36,7 @@ const config = {
   ],
   twitter: {
       handle: "@wahwuhRAW",
-      site: "https://doc.1al.cc",
+      site: "https://1al.cc",
       cardType: "summary_large_image",
     },
 }
