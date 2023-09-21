@@ -18,9 +18,12 @@ const config = {
     },
   ],
   comments: {
-    provider: "disqus",
+    provider: "giscus",
     config: {
-      shortname: process.env.NEXT_PUBLIC_DISQUS_SHORTNAME,
+      repo: process.env.NEXT_PUBLIC_GISCUS_REPO,
+      repositoryId: process.env.NEXT_PUBLIC_GISCUS_REPOSITORY_ID,
+      category: process.env.NEXT_PUBLIC_GISCUS_CATEGORY,
+      categoryId: process.env.NEXT_PUBLIC_GISCUS_CATEGORY_ID,
     },
     pages: ["blog"],
   },
