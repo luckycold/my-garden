@@ -18,9 +18,9 @@ const config = {
     },
   ],
   comments: {
-    provider: "giscus",
+    provider: "disqus",
     config: {
-      shortname: "doc-1al-cc",
+      shortname: process.env.NEXT_PUBLIC_DISQUS_SHORTNAME,
     },
     pages: ["blog"],
   },
