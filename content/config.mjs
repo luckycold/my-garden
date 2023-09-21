@@ -4,7 +4,7 @@ const config = {
   author: "Luke Williams",
   defaultAuthor: "Luke Williams",
   domain: "https://doc.1al.cc",
-  logo: "/images/logo.svg",
+  logo: "",
   search: {
     provider: "kbar"
   },
@@ -32,6 +32,7 @@ const config = {
   social: [
     { label: "github", href: "https://github.com/luckycold/my-garden" },
     { label: "discord", href: "https://discord.gg/7UGcvKzBeP" },
+    { label: "youtube", href: "https://wahwuh.com" },
   ],
   twitter: {
       handle: "@wahwuhRAW",
