@@ -1,5 +1,5 @@
 {
-  "origins": ["https://doc.1al.cc"],
+  "origins": ["https://1al.cc"],
   "originsRegex": ["http://localhost:[0-9]+"],
   "defaultCommentOrder": "newest"
 }
