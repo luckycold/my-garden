@@ -32,8 +32,11 @@ const config = {
   social: [
     { label: "github", href: "https://github.com/luckycold/my-garden" },
     { label: "discord", href: "https://discord.gg/7UGcvKzBeP" },
-    { label: "youtube", href: "https://wahwuh.com" },
-    { label: "twitter", href: "https://twitter.com/wahwuhRAW" },
   ],
+  twitter: {
+      handle: "@wahwuhRAW",
+      site: "https://doc.1al.cc",
+      cardType: "summary_large_image",
+    },
 }
 export default config;
