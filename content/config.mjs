@@ -6,7 +6,7 @@ const config = {
   showEditLink: true,
   editLinkRoot: "https://github.com/luckycold/my-blog/edit/main",
   navbarTitle: {
-    text: "Luke's Data Garden",
+    text: "Luke's Digital Garden",
     version: "Alpha",
   },
   navLinks: [
