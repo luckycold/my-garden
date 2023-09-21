@@ -18,6 +18,7 @@ const config = {
   navLinks: [
     { href: "/blog", name: "Blog" },
     { href: "/_all", name: "All" },
+    { href: "https://wahwuh.com", name: "YouTube" },
   ],
   comments: {
     provider: "giscus",
@@ -32,7 +33,6 @@ const config = {
   social: [
     { label: "github", href: "https://github.com/luckycold/my-garden" },
     { label: "discord", href: "https://discord.gg/7UGcvKzBeP" },
-    { label: "youtube", href: "https://wahwuh.com" },
   ],
   twitter: {
       handle: "@wahwuhRAW",
