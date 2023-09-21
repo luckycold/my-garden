@@ -20,7 +20,7 @@ const config = {
   comments: {
     provider: "giscus",
     config: {
-      shortname: process.env.NEXT_PUBLIC_DISQUS_SHORTNAME,
+      shortname: "doc-1al-cc",
     },
     pages: ["blog"],
   },
