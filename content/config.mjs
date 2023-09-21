@@ -27,6 +27,5 @@ const config = {
     },
     pages: ["blog"],
   },
-  showComments: true
 }
 export default config;
