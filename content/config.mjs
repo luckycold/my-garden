@@ -12,6 +12,7 @@ const config = {
   showComments: true,
   editLinkRoot: "https://github.com/luckycold/my-blog/edit/main",
   navbarTitle: {
+    //logo: "",
     text: "Luke's Digital Garden",
     version: "Alpha",
   },
