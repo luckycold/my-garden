@@ -20,10 +20,10 @@ const config = {
   comments: {
     provider: "giscus",
     config: {
-      repo: process.env.luckycold/my-blog,
-      repositoryId: process.env.R_kgDOKWJZ6Q,
-      category: process.env.General,
-      categoryId: process.env.DIC_kwDOKWJZ6c4CZf-e,
+      repo: process.env.NEXT_PUBLIC_GISCUS_REPO,
+      repositoryId: process.env.NEXT_PUBLIC_GISCUS_REPOSITORY_ID,
+      category: process.env.NEXT_PUBLIC_GISCUS_CATEGORY,
+      categoryId: process.env.NEXT_PUBLIC_GISCUS_CATEGORY_ID,
     },
     pages: ["blog"],
   },
