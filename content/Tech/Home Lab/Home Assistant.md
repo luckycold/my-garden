@@ -14,7 +14,7 @@ The further ability to control your home devices can be added through 3 main are
 
 ![[Pasted image 20230922002907.png]]
 
-This is to simply add more devices that are not already recognized by Home Assistant by default. Think of things like Eufy doorbells ([[Don't Buy Eufy Smarthome Stuff]] btw).
+This is to simply add more devices that are not already recognized by Home Assistant by default. Think of things like Eufy doorbells ([[Dont Buy Eufy Smarthome Stuff]] btw).
 
 ## Add-ons
 
