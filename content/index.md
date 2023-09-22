@@ -10,4 +10,4 @@ I use this to track what I've learned along the way when it comes to my server. 
 
 A few hellos first. Hi Taj (I think that's how you spell it :P). Hi Carson! Hi Alanah! Hey Keyvan!
 
-You'll see that most pages have the ability to comment. Please do so! I ready every single one!
+You'll see that most pages have the ability to comment. Please do so! I read every single one!
